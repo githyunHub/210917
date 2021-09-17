@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    int ages = 24;
+    int Ages = 24;
     float MP = 0.551232f;
     char Profile = 'G';
 
