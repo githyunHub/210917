@@ -8,7 +8,7 @@ int main()
     float MP = 0.551232f;
     char Profile = 'G';
 
-    cout << ages << endl;
+    cout << Ages << endl;
     cout << MP << endl;
     cout << Profile << endl;
 
