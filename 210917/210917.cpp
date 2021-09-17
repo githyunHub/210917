@@ -4,13 +4,16 @@ using namespace std;
 
 int main()
 {
-    int Ages = 24;
-    float MP = 0.551232f;
-    char Profile = 'G';
+    int Ages = 0;
+    int Num1 = 0;
+    int Num2 = 0;
 
-    cout << Ages << endl;
-    cout << MP << endl;
-    cout << Profile << endl;
+    cin >> Num1;
+    cout << "+" << endl;
+    cin >> Num2;
+
+    cout << "The result is" <<endl;
+    cout << Num1 + Num2;
 
     return 0;
 }
